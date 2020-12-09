@@ -1,0 +1,1 @@
+#Automatic mapping for SAP on Azure vm's
